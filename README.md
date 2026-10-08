@@ -4,7 +4,8 @@ Contextualização
 
 Desafio
 
-   - Implementar um banco de dados em SQL que atenda às necessidades da empresa. O desafio envolve: 
+Implementar um banco de dados em SQL que atenda às necessidades da empresa. O desafio envolve: 
+
    - Modelagem das tabelas necessárias (Clientes, Produtos, Pedidos).
    - Criação das tabelas com chaves primárias e estrangeiras.
    - Inserção de dados fictícios para simular o funcionamento da loja.
