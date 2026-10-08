@@ -14,3 +14,11 @@ Implementar um banco de dados em SQL que atenda às necessidades da empresa. O d
    - Qual produto mais vendeu no último mês?
    - Qual o valor total de vendas por cliente?
    - Listar os pedidos que ultrapassam determinado valor.
+
+Resultado Esperados
+
+   - Um Banco de Dados funcional criado em SQL, que poderá ser utilizado em aplicações reais.
+   - Compreender como funcionam as relações entre as tabelas de um banco de dados.
+   - Criar scripts de inserção, alteração e exclusão de dados.
+   - Um conjunto de consultas SQL, que respondam às perguntas propostas.
+   - Empregar Técnicas de normalização dos dados.
